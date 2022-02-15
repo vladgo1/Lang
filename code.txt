@@ -1,0 +1,8 @@
+program
+var a1:real
+    a3:bool
+    
+    a4int:int
+    a5:real
+begin
+end
